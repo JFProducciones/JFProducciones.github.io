@@ -1,4 +1,4 @@
-const RADIO_NAME = 'Sensación Radio';
+const RADIO_NAME = 'Radio X';
 
 // Change Stream URL Here, Supports, ICECAST, ZENO, SHOUTCAST, RADIOJAR and any other stream service.
 const URL_STREAMING = 'https://stream.zeno.fm/znnmxg43qzzuv';
