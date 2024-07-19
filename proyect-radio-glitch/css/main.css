@@ -131,6 +131,17 @@ div {
         .text {font-size: 11px}
       }
 
+	/*Widget Reloj*/
+	.widget-reloj {
+		position: absolute;
+		left: 0;
+		top: 70%;
+		display: flex;
+		flex-direction: column;
+		align-items: flex-end;
+		z-index: 100;
+	}
+
 /* Footer */
 
 	#footer {
