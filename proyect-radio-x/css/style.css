@@ -181,7 +181,7 @@ body {
 /* Chrome */
 input[type=range] {
     appearance: none;
-    background: #fa225b;
+    background: #ff00ff;
     width: 100%;
 }
 
@@ -195,7 +195,7 @@ input[type=range]::-webkit-slider-runnable-track {
     cursor: pointer;
     animation: 0.2s;
     box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
-    background: #fa225b;
+    background: #ff00ff;
 }
 
 input[type=range]::-webkit-slider-thumb {
@@ -203,7 +203,7 @@ input[type=range]::-webkit-slider-thumb {
     height: 20px;
     width: 20px;
     border-radius: 50%;
-    background: #fa225b;
+    background: #ff00ff;
     cursor: pointer;
     -webkit-appearance: none;
     margin-top: -8px;
@@ -216,7 +216,7 @@ input[type=range]::-moz-range-track {
     cursor: pointer;
     animation: 0.2s;
     box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
-    background: #fa225b;
+    background: #ff00ff;
 }
 
 input[type=range]::-moz-range-thumb {
@@ -225,7 +225,7 @@ input[type=range]::-moz-range-thumb {
     height: 20px;
     width: 20px;
     border-radius: 50%;
-    background: #fa225b;
+    background: #ff00ff;
     cursor: pointer;
 }
 
@@ -239,17 +239,17 @@ input[type=range]::-ms-track {
     border-color: transparent;
     border-width: 10px 0;
     top: -10px;
-    color: #fa225b;
+    color: #ff00ff;
 }
 
 input[type=range]::-ms-fill-lower {
-    background: #fa225b;
+    background: #ff00ff;
     border: 0px solid #000101;
     box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
 }
 
 input[type=range]::-ms-fill-upper {
-    background: #fa225b;
+    background: #ff00ff;
     border: 0px solid #000101;
     box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
 }
@@ -260,14 +260,14 @@ input[type=range]::-ms-thumb {
     height: 20px;
     width: 20px;
     border-radius: 50%;
-    background: #fa225b;
+    background: #ff00ff;
     cursor: pointer;
 }
 
 
 .historic h2 {
     color: #fefefe;
-    border-bottom: 2px solid #fa225b;
+    border-bottom: 2px solid #ff00ff;
     font-size: 18px;
     font-weight: bold;
     text-transform: uppercase;
@@ -420,7 +420,7 @@ input[type=range]::-ms-thumb {
     cursor: pointer;
 }
 .btn-play {
-    background-color: #fa225b;
+    background-color: #00ffff;
     border: none;
     color: black;
     padding: 10px 10px; /* Reduzindo o preenchimento */
